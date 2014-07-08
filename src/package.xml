@@ -33,11 +33,6 @@
         <name>ApprovalProcess</name>
     </types>
     <types>
-        <members>Case.Standard</members>
-        <members>Lead.Standard</members>
-        <name>AssignmentRule</name>
-    </types>
-    <types>
         <members>*</members>
         <name>AuthProvider</name>
     </types>
@@ -107,7 +102,6 @@
         <members>ContractContactRole</members>
         <members>DandBCompany</members>
         <members>Event</members>
-        <members>Idea</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Opportunity</members>
@@ -279,10 +273,6 @@
     <types>
         <members>*</members>
         <name>Workflow</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Settings</name>
     </types>
     <version>30.0</version>
 </Package>
