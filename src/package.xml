@@ -114,7 +114,6 @@
         <members>Pricebook2</members>
         <members>Product2</members>
         <members>Site</members>
-        <members>SiteChangelist</members>
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>Task</members>
@@ -142,7 +141,6 @@
         <name>DataCategoryGroup</name>
     </types>
     <types>
-        <members>unfiled$public</members>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
@@ -223,7 +221,7 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
-        <members>unfiled$public</members>
+        <members>*</members>
         <name>Report</name>
     </types>
     <types>
