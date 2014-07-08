@@ -282,6 +282,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>My_Custom_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>My Custom Field</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NumberofLocations__c</fullName>
         <externalId>false</externalId>
         <label>Number of Locations</label>
