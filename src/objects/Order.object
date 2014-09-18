@@ -91,6 +91,11 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>OpportunityId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>OriginalOrderId</fullName>
         <type>Lookup</type>
     </fields>
